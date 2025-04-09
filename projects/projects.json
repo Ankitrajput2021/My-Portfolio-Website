@@ -1,39 +1,39 @@
 [
   {
-    "name": "Travel",
-    "desc": " ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis dolorem harum dolorum debitis.",
-    "image": "travel",
+    "name": "d-Voting",
+    "desc": " A decentralized voting system built on blockchain ensuring secure, transparent, and tamper-proof elections.",
+    "image": "dvoting",
     "category": "mern",
     "links": {
       "view": "#",
-      "code": "#"
+      "code": "https://github.com/Ankitrajput2021/dVoting"
     }
   },
   {
-    "name": "Movies",
-    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis dolorem harum dolorum debitis.",
-    "image": "movies_",
+    "name": "Weatherly",
+    "desc": "A responsive weather app that fetches real-time weather data using APIs based on user location or city input.",
+    "image": "weather",
     "category": "mern",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://ankitrajput2021.github.io/PRODIGY_WD_04/",
+      "code": "https://github.com/Ankitrajput2021/PRODIGY_WD_04"
     }
   },
   {
     "name": "Portfolio",
-    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis dolorem harum dolorum debitis.",
-    "image": "portfolio-",
+    "desc": "A sleek and responsive website where I showcase my projects, skills, and what I love to build",
+    "image": "portfolio",
     "category": "mern",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://my-portfolio-website-new-delta.vercel.app/",
+      "code": "https://github.com/Ankitrajput2021/My-Portfolio-Website"
     }
   },
   {
-    "name": "G-food",
-    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis dolorem harum dolorum debitis..",
-    "image": "g-food_",
-    "category": "mern",
+    "name": "Netflix-Dashboard",
+    "desc": "An interactive Netflix-style dashboard built with Power BI and React to visualize and analyze streaming data.",
+    "image": "netflix",
+    "category": "data_analytics",
     "links": {
       "view": "#",
       "code": "#"
@@ -51,13 +51,13 @@
     }
   },
   {
-    "name": "Dlife",
-    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis dolorem harum dolorum debitis. Magni, iste! Perferendis laborum reprehenderit dolorum totam.",
-    "image": "d'life_",
+    "name": "Tic-Tac-Toe",
+    "desc": "A classic Tic Tac Toe game with an AI opponent, offering both single and two-player modes.",
+    "image": "tic-tac",
     "category": "mern",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://ankitrajput2021.github.io/PRODIGY_WD_03/",
+      "code": "https://github.com/Ankitrajput2021/PRODIGY_WD_03"
     }
   }
 ]
