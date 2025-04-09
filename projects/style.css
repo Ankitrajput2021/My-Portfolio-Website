@@ -433,3 +433,9 @@ header .navbar ul li a:hover{
     font-size: 1.3rem;
   }
 }
+@media (max-width: 576px) {
+  .work .box-container .box {
+    margin-bottom: 2rem;
+  }
+}
+
