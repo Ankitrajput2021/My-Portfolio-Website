@@ -435,7 +435,12 @@ header .navbar ul li a:hover{
 }
 @media (max-width: 576px) {
   .work .box-container .box {
-    margin-bottom: 2rem;
+    margin-bottom: 3rem; 
+  }
+
+  
+  .work .box-container .box .content {
+    padding-bottom: 1rem;
   }
 }
 
